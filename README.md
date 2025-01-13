@@ -1,1 +1,1 @@
-# titanic-eda
+# eda-titanic
